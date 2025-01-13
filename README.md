@@ -3,7 +3,7 @@
 
 Unity 6로 제작된 2D 플랫포머 게임입니다.
 
-WebGL로 빌드하여 손쉽게 플레이해보세요!
+아래의 WebGL 링크로 게임을 플레이해보실 수 있습니다!
 
 https://play.unity.com/en/games/664a22e2-143a-4189-9a0a-01781a968231/kimchirun-by-grace\
 
